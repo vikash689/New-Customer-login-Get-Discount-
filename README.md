@@ -8,6 +8,9 @@ Public.zip file unzip public folder
 use composer install
 
  use comment for generate key :- php artisan key:generate
+
  in .env file edit database details
+
  use comment for migration table:-php artisan migrate
+
  use comment for insert data in discount table useing:-php artisan db:seed
